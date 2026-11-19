@@ -6,7 +6,7 @@ Round 2 adds PEEKO, an early-warning monitor. In round 3, BEEPO the AI helper of
 
 > A small personal reference project: one self-contained HTML file, no build step, no server, no tracking.
 
-**Play:** open `index.html` in Chrome or Edge, or use the GitHub Pages link of this repository.
+**▶ Play now:** https://songnayeong.github.io/can-you-manage-it-all/ (Chrome or Edge, keyboard)
 
 ## Controls (laptop)
 
